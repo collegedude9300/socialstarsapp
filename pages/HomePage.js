@@ -21,6 +21,9 @@ Welcome to Social Stars Home Page!
  <li>Please insert status post here.</li>
  <li>Please insert comment post here.</li>
 </ul>
+<Link legacyBehavior href="/"> 
+        <a className="btn btn-success">Home</a>
+        </Link>
 </main>
 </div>
 )
