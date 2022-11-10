@@ -3,6 +3,8 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import 'bootstrap/dist/css/bootstrap.css'
 import Link from 'next/Link'
+import { Navbar, Nav } from 'react-bootstrap'
+import NavBar from './NavBar'
 export default function HomePage() 
 {
 return (
@@ -18,6 +20,7 @@ Welcome to Social Stars Home Page!
 </h1>
 <ul>
  <li>Please insert nav bar at top. </li>
+ <NavBar/>
  <li>Nav bar: left to right:  add person, search for people, inbox</li>
  <li>Please insert feed page here.</li>
  <li>Please insert status post here.</li>
