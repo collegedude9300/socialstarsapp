@@ -10,9 +10,9 @@ return (
 <Navbar bg="light" variant="light">
 <Navbar.Brand href="#home">Social Stars</Navbar.Brand>
 <Nav className="mr-auto">
- <Nav.Link href="/Blah">Add Person</Nav.Link>
- <Nav.Link href="/Blah">Search</Nav.Link>
- <Nav.Link href="/Login">Inbox</Nav.Link>
+ <Nav.Link href="/AddPerson">Add Person</Nav.Link>
+ <Nav.Link href="/Search">Search</Nav.Link>
+ <Nav.Link href="/Inbox">Inbox</Nav.Link>
 </Nav>
 </Navbar>
 )

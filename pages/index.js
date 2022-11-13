@@ -13,11 +13,9 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to Social Stars
         </h1>
-
         <p className={styles.description}>
           The friendship website for people with disabilities.
         </p>
-
         <div className={styles.grid}>
           <a href="/SignUp" className={styles.card}>
             <h2>Sign Up &rarr;</h2>     
@@ -27,9 +25,6 @@ export default function Home() {
           </a>
           <a href="/HomePage"className={styles.card}>
             <h2>Home Page &rarr;</h2>
-          </a>
-          <a href="/NavBar"className={styles.card}>
-            <h2>Checking on the Nav Bar &rarr;</h2>
           </a>
         </div>
       </main>
