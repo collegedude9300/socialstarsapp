@@ -15,10 +15,10 @@
   ],
   "rootMainFiles": [],
   "pages": {
-    "/Blah": [
+    "/": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/Blah.js"
+      "static/chunks/pages/index.js"
     ],
     "/HomePage": [
       "static/chunks/webpack.js",
@@ -29,6 +29,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/Login.js"
+    ],
+    "/SignUp": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/SignUp.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
