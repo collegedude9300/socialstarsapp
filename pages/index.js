@@ -28,6 +28,9 @@ export default function Home() {
           <a href="/HomePage"className={styles.card}>
             <h2>Home Page &rarr;</h2>
           </a>
+          <a href="/NavBar"className={styles.card}>
+            <h2>Checking on the Nav Bar &rarr;</h2>
+          </a>
         </div>
       </main>
     </div>
