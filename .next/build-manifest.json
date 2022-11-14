@@ -15,10 +15,20 @@
   ],
   "rootMainFiles": [],
   "pages": {
-    "/NavBar": [
+    "/": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/NavBar.js"
+      "static/chunks/pages/index.js"
+    ],
+    "/HomePage": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/HomePage.js"
+    ],
+    "/Inbox": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Inbox.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",

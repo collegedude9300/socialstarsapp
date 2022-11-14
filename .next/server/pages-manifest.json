@@ -2,5 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/NavBar": "pages/NavBar.js"
+  "/": "pages/index.js",
+  "/HomePage": "pages/HomePage.js",
+  "/Inbox": "pages/Inbox.js"
 }
