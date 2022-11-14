@@ -15,6 +15,9 @@ export default function HomePage()
 <link rel="icon" href="/favicon.ico" />
 </Head>
 <p>The Inbox page is currently under construction. Check back soon!</p>
+<Link legacyBehavior href="/"> 
+        <a className="btn btn-success">Home</a>
+        </Link>
 </div>
     )
 }
