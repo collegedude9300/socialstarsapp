@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import Link from 'next/Link'
 import { Navbar, Nav } from 'react-bootstrap'
 import NavBar from './NavBar'
-export default function HomePage()
+export default function Inbox()
 {
     return(
 <div className={styles.container}>
