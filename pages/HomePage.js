@@ -17,7 +17,6 @@ return (
  
  <h4><NavBar/> </h4>
 <ul>
- <li>Please insert feed page here.</li>
  <li>Please insert status post here.</li>
  <li>Please insert comment post here.</li>
 </ul>
